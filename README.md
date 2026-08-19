@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/oficialharshit/leetcode_solves/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/oficialharshit/DSA-in-python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/oficialharshit/leetcode_solves/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/oficialharshit/DSA-in-python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/oficialharshit/DSA-in-python/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/oficialharshit/DSA-in-python/tree/master/0485-max-consecutive-ones) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/oficialharshit/leetcode_solves/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/oficialharshit/DSA-in-python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/oficialharshit/leetcode_solves/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/oficialharshit/DSA-in-python/tree/master/0283-move-zeroes) |
 ## Linked List
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/oficialharshit/leetcode_solves/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/oficialharshit/DSA-in-python/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/oficialharshit/leetcode_solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
@@ -98,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/oficialharshit/leetcode_solves/tree/master/2029-stone-game-ix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/oficialharshit/leetcode_solves/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/oficialharshit/leetcode_solves/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
