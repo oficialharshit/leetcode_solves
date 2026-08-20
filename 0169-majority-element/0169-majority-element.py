@@ -14,10 +14,4 @@ class Solution(object):
                 count+=1
             else:
                 count-=1
-        count1=0
-        for i in range(len(arr)):
-            if arr[i]==el:
-                count1+=1
-        if count1 > len(arr)/2:
-            return el
-        return -1
+        return el
