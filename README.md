@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/oficialharshit/leetcode_solves/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oficialharshit/leetcode_solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/oficialharshit/leetcode_solves/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/oficialharshit/leetcode_solves/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/oficialharshit/DSA-in-python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/oficialharshit/DSA-in-python/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/oficialharshit/DSA-in-python/tree/master/0485-max-consecutive-ones) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/oficialharshit/leetcode_solves/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/oficialharshit/leetcode_solves/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/oficialharshit/DSA-in-python/tree/master/0268-missing-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/oficialharshit/leetcode_solves/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/oficialharshit/leetcode_solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/oficialharshit/leetcode_solves/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/oficialharshit/leetcode_solves/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/oficialharshit/leetcode_solves/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/oficialharshit/DSA-in-python/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/oficialharshit/leetcode_solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/oficialharshit/leetcode_solves/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/oficialharshit/leetcode_solves/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/oficialharshit/leetcode_solves/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -126,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/oficialharshit/leetcode_solves/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/oficialharshit/leetcode_solves/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
