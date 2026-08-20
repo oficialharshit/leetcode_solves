@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/oficialharshit/leetcode_solves/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/oficialharshit/DSA-in-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/oficialharshit/leetcode_solves/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/oficialharshit/leetcode_solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/oficialharshit/DSA-in-python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/oficialharshit/DSA-in-python/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/oficialharshit/DSA-in-python/tree/master/0485-max-consecutive-ones) |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/oficialharshit/leetcode_solves/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/oficialharshit/leetcode_solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
