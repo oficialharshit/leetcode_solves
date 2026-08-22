@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/oficialharshit/DSA-in-python/tree/master/0485-max-consecutive-ones) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/oficialharshit/leetcode_solves/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2029-stone-game-ix](https://github.com/oficialharshit/leetcode_solves/tree/master/2029-stone-game-ix) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/oficialharshit/leetcode_solves/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/oficialharshit/leetcode_solves/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/oficialharshit/leetcode_solves/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/oficialharshit/leetcode_solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/oficialharshit/DSA-in-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/oficialharshit/leetcode_solves/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/oficialharshit/DSA-in-python/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/oficialharshit/leetcode_solves/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Linked List
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/oficialharshit/leetcode_solves/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/oficialharshit/leetcode_solves/tree/master/0229-majority-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/oficialharshit/leetcode_solves/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
