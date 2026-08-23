@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/oficialharshit/DSA-in-python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/oficialharshit/DSA-in-python/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/oficialharshit/DSA-in-python/tree/master/0485-max-consecutive-ones) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/oficialharshit/leetcode_solves/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/oficialharshit/leetcode_solves/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2029-stone-game-ix](https://github.com/oficialharshit/leetcode_solves/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/oficialharshit/leetcode_solves/tree/master/2149-rearrange-array-elements-by-sign) |
