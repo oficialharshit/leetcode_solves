@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/oficialharshit/leetcode_solves/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oficialharshit/leetcode_solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/oficialharshit/leetcode_solves/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/oficialharshit/leetcode_solves/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/oficialharshit/leetcode_solves/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/oficialharshit/leetcode_solves/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/oficialharshit/DSA-in-python/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/oficialharshit/leetcode_solves/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/oficialharshit/leetcode_solves/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/oficialharshit/leetcode_solves/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/oficialharshit/DSA-in-python/tree/master/0268-missing-number) |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/oficialharshit/leetcode_solves/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/oficialharshit/leetcode_solves/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
