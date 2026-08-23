@@ -4,11 +4,11 @@ class Solution(object):
         :type arr: List[int]
         :rtype: List[int]
         """
-        maxi = -1
-        ans = []
-        for i in range(len(arr)-1,-1,-1):
-            ans.append(maxi)
-            maxi = max(arr[i],maxi)
-        
-        return ans[::-1]
-                
+        nums = arr[:]
+        maxim = -1
+        for i in range(len(nums)-1,0,-1):
+            nums[i] = maxim
+            if arr[i]>maxim:
+                maxim = arr[i]
+        nums[0] = maxim
+        return nums
