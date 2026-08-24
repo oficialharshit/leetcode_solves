@@ -6,11 +6,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        
-        hashed = defaultdict(int)
+        xor = 0
         for num in nums:
-            hashed[num]+=1
-        for key,value in hashed.items():
-            if value == 1:
-                return key
+            xor ^= num
+        return xor
 
