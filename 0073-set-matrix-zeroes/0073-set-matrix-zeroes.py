@@ -4,26 +4,16 @@ class Solution(object):
         :type matrix: List[List[int]]
         :rtype: None Do not return anything, modify matrix in-place instead.
         """
-        
-        rows, cols = len(matrix), len(matrix[0])
-
-        cols_num = set()
-
-        for i in range(rows):
-            flag = False
-            for j in range(cols):
-                if matrix[i][j] == 0:
-                    if flag == False:
-                        flag = True
-                        for k in range(0, j):
-                            matrix[i][k] = 0
-                        
-                    if j not in cols_num:
-                        cols_num.add(j)
-                        for k in range(0, i):
-                            matrix[k][j] = 0
-
-                elif flag or j in cols_num:
-                    matrix[i][j] = 0
-
-        return
+        m = len(matrix[0]) # cols
+        n = len(matrix) # rows
+        col = [0]*m
+        row = [0]*n
+        for i in range(n):
+            for j in range(m):
+                if matrix[i][j]==0:
+                    col[j]=1
+                    row[i]=1
+        for i in range(n):
+            for j in range(m):
+                if col[j] == 1 or row[i] ==1 :
+                    matrix[i][j]=0
