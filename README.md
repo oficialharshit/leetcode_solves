@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/oficialharshit/leetcode_solves/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/oficialharshit/DSA-in-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/oficialharshit/leetcode_solves/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/oficialharshit/leetcode_solves/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/oficialharshit/leetcode_solves/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/oficialharshit/leetcode_solves/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/oficialharshit/leetcode_solves/tree/master/0075-sort-colors) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/oficialharshit/leetcode_solves/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/oficialharshit/DSA-in-python/tree/master/0268-missing-number) |
 | [2029-stone-game-ix](https://github.com/oficialharshit/leetcode_solves/tree/master/2029-stone-game-ix) |
 ## Binary Search
@@ -163,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/oficialharshit/leetcode_solves/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/oficialharshit/leetcode_solves/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
