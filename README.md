@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/oficialharshit/DSA-in-python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/oficialharshit/DSA-in-python/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/oficialharshit/DSA-in-python/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/oficialharshit/leetcode_solves/tree/master/0560-subarray-sum-equals-k) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/oficialharshit/leetcode_solves/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/oficialharshit/leetcode_solves/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2029-stone-game-ix](https://github.com/oficialharshit/leetcode_solves/tree/master/2029-stone-game-ix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/oficialharshit/leetcode_solves/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/oficialharshit/leetcode_solves/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/oficialharshit/DSA-in-python/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/oficialharshit/leetcode_solves/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/oficialharshit/leetcode_solves/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/oficialharshit/leetcode_solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/oficialharshit/leetcode_solves/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/oficialharshit/leetcode_solves/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/oficialharshit/leetcode_solves/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/oficialharshit/leetcode_solves/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/oficialharshit/leetcode_solves/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
