@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/oficialharshit/leetcode_solves/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/oficialharshit/leetcode_solves/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/oficialharshit/leetcode_solves/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/oficialharshit/leetcode_solves/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/oficialharshit/leetcode_solves/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/oficialharshit/leetcode_solves/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oficialharshit/leetcode_solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/oficialharshit/leetcode_solves/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/oficialharshit/leetcode_solves/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/oficialharshit/leetcode_solves/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2029-stone-game-ix](https://github.com/oficialharshit/leetcode_solves/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/oficialharshit/leetcode_solves/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/oficialharshit/leetcode_solves/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oficialharshit/leetcode_solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/oficialharshit/leetcode_solves/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Divide and Conquer
