@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/oficialharshit/leetcode_solves/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/oficialharshit/leetcode_solves/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/oficialharshit/leetcode_solves/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/oficialharshit/leetcode_solves/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oficialharshit/leetcode_solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/oficialharshit/leetcode_solves/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/oficialharshit/leetcode_solves/tree/master/0128-longest-consecutive-sequence) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/oficialharshit/leetcode_solves/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/oficialharshit/leetcode_solves/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/oficialharshit/leetcode_solves/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oficialharshit/leetcode_solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/oficialharshit/leetcode_solves/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Divide and Conquer
