@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/oficialharshit/leetcode_solves/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/oficialharshit/leetcode_solves/tree/master/0242-valid-anagram) |
+| [0709-to-lower-case](https://github.com/oficialharshit/leetcode_solves/tree/master/0709-to-lower-case) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/oficialharshit/leetcode_solves/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/oficialharshit/leetcode_solves/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
