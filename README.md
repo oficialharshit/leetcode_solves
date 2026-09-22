@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/oficialharshit/leetcode_solves/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/oficialharshit/leetcode_solves/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/oficialharshit/leetcode_solves/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/oficialharshit/leetcode_solves/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/oficialharshit/leetcode_solves/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/oficialharshit/leetcode_solves/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/oficialharshit/DSA-in-python/tree/master/0268-missing-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/oficialharshit/leetcode_solves/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/oficialharshit/leetcode_solves/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/oficialharshit/leetcode_solves/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/oficialharshit/leetcode_solves/tree/master/0709-to-lower-case) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/oficialharshit/leetcode_solves/tree/master/2213-longest-substring-of-one-repeating-character) |
